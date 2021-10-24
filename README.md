@@ -5,4 +5,4 @@ Projeto simples usando React e Typescript.
 ![Todolist](https://i.imgur.com/sEtYnZq.png)
 
 ### 🛠 Tecnologias
-- [React] (https://reactjs.org/)
+- [React](https://reactjs.org/)
