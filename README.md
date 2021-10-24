@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Desenvolvendo um projeto de lista de afazeres em React
 
 Projeto simples usando React e Typescript.
 
